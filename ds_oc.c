@@ -7,7 +7,7 @@
 #define WMO_PID 0x0ce6
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Sebastián Zambrano");
+MODULE_AUTHOR("Jiang lai");
 MODULE_DESCRIPTION("Filter kernel module to set the polling rate of the Sony DualSense controller to a custom value on XHCI.");
 MODULE_VERSION("1.0");
 
